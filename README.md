@@ -1,0 +1,1 @@
+# buildrootSTM32config
